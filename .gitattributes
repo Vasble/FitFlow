@@ -1,0 +1,8 @@
+# Нормалізація кінців рядків для текстових файлів
+* text=auto
+
+# Бінарні файли — без посимвольного diff
+*.docx binary
+*.pdf binary
+*.png binary
+*.jpg binary

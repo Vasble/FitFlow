@@ -1,0 +1,16 @@
+# ОС
+.DS_Store
+Thumbs.db
+
+# Редактори та IDE
+.vscode/
+.idea/
+
+# .NET / ASP.NET Core (стек II семестру)
+bin/
+obj/
+*.user
+
+# Локальні секрети та налаштування середовища
+.env
+appsettings.Development.json
